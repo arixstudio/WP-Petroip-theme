@@ -28,4 +28,6 @@ Petroleum Corporate is released under the MIT License. You are free to use, modi
 
 ## Contact
 
-If you have any questions, feedback, or support requests, please contact us at support@petroleumcorporate.com.
+If you have any questions, feedback, or support requests, please contact us at info@arixstudio.com
+
+### [Preview in Figma](https://www.figma.com/proto/1MMXlLDY47gjP67jrVtwnE/Petroip?type=design&node-id=5-5&t=t4fNcXroCFX0QNuh-0&scaling=min-zoom&page-id=0%3A1)
