@@ -1,0 +1,303 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: RX Petroip\n"
+"POT-Creation-Date: 2023-05-31 10:55+0330\n"
+"PO-Revision-Date: 2023-05-31 10:55+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: functions.php:51
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:74
+msgid "Logo (English)"
+msgstr ""
+
+#: functions.php:80
+msgid "Logo (Farsi)"
+msgstr ""
+
+#: functions.php:108 functions.php:110
+msgid "Products"
+msgstr "محصولات"
+
+#: functions.php:109
+msgid "Product"
+msgstr "محصول"
+
+#: functions.php:111 functions.php:163 functions.php:434
+msgid "Add New"
+msgstr ""
+
+#: functions.php:112
+msgid "Add New Product"
+msgstr ""
+
+#: functions.php:113
+msgid "Edit Product"
+msgstr ""
+
+#: functions.php:114
+msgid "New Product"
+msgstr ""
+
+#: functions.php:115
+msgid "View Product"
+msgstr ""
+
+#: functions.php:116
+msgid "Search Products"
+msgstr ""
+
+#: functions.php:117
+msgid "No products found"
+msgstr ""
+
+#: functions.php:118
+msgid "No products found in trash"
+msgstr ""
+
+#: functions.php:119
+msgid "Parent Product:"
+msgstr ""
+
+#: functions.php:120
+msgid "All Products"
+msgstr ""
+
+#: functions.php:121
+msgid "Product Archives"
+msgstr ""
+
+#: functions.php:122
+msgid "Product Attributes"
+msgstr ""
+
+#: functions.php:123
+msgid "Insert into product"
+msgstr ""
+
+#: functions.php:124
+msgid "Uploaded to this product"
+msgstr ""
+
+#: functions.php:125 functions.php:177
+msgid "Featured Image"
+msgstr ""
+
+#: functions.php:126 functions.php:178
+msgid "Set featured image"
+msgstr ""
+
+#: functions.php:127 functions.php:179
+msgid "Remove featured image"
+msgstr ""
+
+#: functions.php:128 functions.php:180
+msgid "Use as featured image"
+msgstr ""
+
+#: functions.php:132
+msgid "Products post type"
+msgstr ""
+
+#: functions.php:160 functions.php:162
+msgid "Testimonials"
+msgstr ""
+
+#: functions.php:161
+msgid "Testimonial"
+msgstr ""
+
+#: functions.php:164
+msgid "Add New Testimonial"
+msgstr ""
+
+#: functions.php:165
+msgid "Edit Testimonial"
+msgstr ""
+
+#: functions.php:166
+msgid "New Testimonial"
+msgstr ""
+
+#: functions.php:167
+msgid "View Testimonial"
+msgstr ""
+
+#: functions.php:168
+msgid "Search Testimonials"
+msgstr ""
+
+#: functions.php:169
+msgid "No testimonials found"
+msgstr ""
+
+#: functions.php:170
+msgid "No testimonials found in trash"
+msgstr ""
+
+#: functions.php:171
+msgid "Parent Testimonial:"
+msgstr ""
+
+#: functions.php:172
+msgid "All Testimonials"
+msgstr ""
+
+#: functions.php:173
+msgid "Testimonial Archives"
+msgstr ""
+
+#: functions.php:174
+msgid "Testimonial Attributes"
+msgstr ""
+
+#: functions.php:175
+msgid "Insert into testimonial"
+msgstr ""
+
+#: functions.php:176
+msgid "Uploaded to this testimonial"
+msgstr ""
+
+#: functions.php:184
+msgid "Testimonials post type"
+msgstr ""
+
+#: functions.php:208
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:210
+msgid "Add widgets here to appear in the first column of the footer."
+msgstr ""
+
+#: functions.php:218
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:220
+msgid "Add widgets here to appear in the second column of the footer."
+msgstr ""
+
+#: functions.php:227
+msgid "Bottom bar 1"
+msgstr ""
+
+#: functions.php:229
+msgid "Add widgets here to appear in the first column of the bottom bar."
+msgstr ""
+
+#: functions.php:237
+msgid "Bottom bar 2"
+msgstr ""
+
+#: functions.php:239
+msgid "Add widgets here to appear in the second column of the bottom bar."
+msgstr ""
+
+#: functions.php:389
+msgid "What our clients say"
+msgstr "از نگاه مشتریان"
+
+#: functions.php:432
+msgid "Sliders"
+msgstr ""
+
+#: functions.php:433
+msgid "Slider"
+msgstr ""
+
+#: functions.php:435
+msgid "Add New Slider"
+msgstr ""
+
+#: functions.php:436
+msgid "Edit Slider"
+msgstr ""
+
+#: functions.php:437
+msgid "New Slider"
+msgstr ""
+
+#: functions.php:438
+msgid "View Slider"
+msgstr ""
+
+#: functions.php:439
+msgid "Search Sliders"
+msgstr ""
+
+#: functions.php:440
+msgid "No Sliders found"
+msgstr ""
+
+#: functions.php:441
+msgid "No Sliders found in Trash"
+msgstr ""
+
+#: functions.php:604
+msgid "Theme Colors"
+msgstr ""
+
+#: functions.php:615
+msgid "Primary Color"
+msgstr ""
+
+#: functions.php:627
+msgid "Secondary Color"
+msgstr ""
+
+#: functions.php:639
+msgid "Highlight Color"
+msgstr ""
+
+#: header.php:33
+msgid "Toggle navigation"
+msgstr ""
+
+#: inc/class-wp-bootstrap-navwalker.php:369
+msgid "Add a menu"
+msgstr ""
+
+#: template-parts/content.php:15
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: template-parts/content.php:20
+msgid "Pages:"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "RX Petroip"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A WordPress theme with Bootstrap 5 support."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "arixstudio"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://arixstudio.com"
+msgstr ""

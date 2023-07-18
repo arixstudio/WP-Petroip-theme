@@ -1,0 +1,131 @@
+* {
+  letter-spacing: unset!important;
+}
+
+.show-in-fa {
+    display: block;
+}
+
+.show-in-en {
+    display: none;
+}
+
+body {
+    font-family: vazirmatn;
+}
+
+h1 {
+  font-weight: 100;
+}
+
+h2, 
+h2 a, 
+h2 a:hover {
+  font-weight: 100;
+}
+
+h3, h4, h6 {
+  font-weight: 100;
+}
+
+h2.entry-title a {
+  font-weight: 100;
+}
+
+p {
+  font-weight: 200;
+  font-size: 17px;
+}
+
+.nav-link {
+  font-weight: 200;
+  font-size: 15px;
+}
+
+.dropdown-menu::before {
+    right: 10px;
+    left: auto;
+}
+
+.container-fluid.post-slider {
+    padding-left: 100px;
+    padding-right: 0;
+}
+
+.container-fluid.post-thumbnail {
+  padding-right: unset;
+  padding-left: 100px;
+}
+
+.post-thumbnail-image {
+  border-radius: 0 0 0 30px;
+}
+
+.slider-container {
+    border-radius: 0 0 0 360px;
+}
+
+.slider-nav {
+    justify-content: right;
+}
+
+.go-down {
+  right: unset;
+  left: 6%;
+}
+
+.product-card .card-title a {
+  font-weight: 200;
+}
+
+.product-card .btn {
+  transform: rotate(180deg);
+}
+
+#rx-contact-form .btn {
+  transform: rotate(180deg);
+}
+
+#testimonialSlider .carousel-control-next {
+  left: 0;
+  right: unset;
+}
+
+.wp-block-rx-petroip-contact-detail .phone {
+  direction: ltr;
+}
+
+.wp-block-rx-petroip-contact-detail .phone .contact-icon {
+  float: right;
+}
+
+.wp-block-rx-petroip-contact-detail .phone a {
+  float: right;
+}
+
+::placeholder {
+  text-align: right;
+}
+
+#rx-contact-form-email {
+  padding-left: 40px !important;
+}
+
+/* Mobile */
+@media screen and (max-width: 782px) {
+    .container-fluid.post-slider,
+    .container-fluid.post-thumbnail {
+      padding-left: 40px;
+      padding-right: 0;
+    }
+    .slider-container {
+      height: 500px;
+      border-radius: 0 0 0 200px ;
+    }
+    .slider-caption {
+      top: 260px
+    }
+    .slider-nav {
+      margin-left: 5px;
+    }
+}
